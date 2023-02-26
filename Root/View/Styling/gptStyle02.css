@@ -1,0 +1,21 @@
+h1 {
+    font-size: 24px;
+    color: black;
+    font-weight: bold;
+  }
+  
+  textarea,
+  input[type="text"],
+  input[type="submit"] {
+    border: 1px solid black;
+    padding: 6px;
+    color: black;
+    /* background-color: white; */
+  }
+  
+  div {
+    border: 1px solid black;
+    padding: 12px;
+    color: black;
+    background-color: white;
+  }
