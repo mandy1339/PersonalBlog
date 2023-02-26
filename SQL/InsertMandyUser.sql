@@ -1,2 +1,0 @@
--- Ba@@@@@####
-INSERT INTO USERS VALUES (NULL, 'mandy1339', '$2y$10$Q3m48/bv//h1UkZ6U8e7H.6S6bb6IBmD6YbHizJ2a9LfTk1uCzuhC');
